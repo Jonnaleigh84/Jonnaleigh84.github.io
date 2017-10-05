@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: All News
 header-img: img/home-bg.png
 email: zanycandlecreations@gmail.com
 copyright_name: Jonnaleigh84
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Big News
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: zanycandles
 github_username:  Jonnaleigh84
